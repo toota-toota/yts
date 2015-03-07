@@ -7,8 +7,30 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Toota Toota",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "request": "^2.53.0"
-  }
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toota-toota/yts.git"
+  },
+  "keywords": [
+    "yts",
+    "yts.re",
+    "torrents",
+    "movies",
+    "torrent",
+    "rest",
+    "api",
+    "wrapper"
+  ],
+  "bugs": {
+    "url": "https://github.com/toota-toota/yts/issues"
+  },
+  "homepage": "https://github.com/toota-toota/yts"
 }
